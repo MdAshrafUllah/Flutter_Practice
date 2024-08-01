@@ -1,16 +1,13 @@
-# basicflutterapplication
+# Task 1: Basic Flutter Application
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Output:
+<table style="width:100%">
+  <tr>
+    <th>Home Page</th>
+    <th>List Items Page</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/cfbff7f0-8f4f-4333-9be7-7532315f0697" width="200" height="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/70046158-a929-4e45-af7f-a7f945f5ef67" width="200" height="400"></td>
+  </tr>
+</table>
